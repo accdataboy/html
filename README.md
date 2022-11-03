@@ -1,3 +1,3 @@
 # HTML repository
 
-- Chris Pitchford, propietor
+- Chris Pitchford, author
