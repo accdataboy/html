@@ -1,6 +1,6 @@
-# HTML repository
+# HTML Repository, Main Branch
 
-- Chris Pitchford, author and developer
+- Chris Pitchford, author
 
 Just as a reminder, the _markdown_:
 
