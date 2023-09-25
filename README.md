@@ -1,4 +1,4 @@
-# HTML Repository, Main Branch
+# HTML Repository
 
 - Chris Pitchford, author
 
