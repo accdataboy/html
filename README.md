@@ -1,6 +1,6 @@
 # HTML Repository
 
-- Chris Pitchford, author
+- Chris Pitchford, <em>author</em>
 
 Just as a reminder, the _markdown_:
 
