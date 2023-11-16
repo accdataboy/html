@@ -1,6 +1,6 @@
 # HTML Example
 
-- Chris Pitchford, <em>author</em>
+- Christopher J. Pitchford, <em>author</em>
 
 Just as a reminder, the _markdown_:
 
