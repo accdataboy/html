@@ -1,4 +1,4 @@
-# HTML Repository
+# HTML Example
 
 - Chris Pitchford, <em>author</em>
 
